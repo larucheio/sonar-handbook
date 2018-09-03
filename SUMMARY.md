@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [The Sonar's Handbook 🐋](README.md)
 
