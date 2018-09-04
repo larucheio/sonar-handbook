@@ -14,6 +14,14 @@ La durée du mandat est de 1 ans renouvelable.
   
 Il se réunit autant de fois que les affaires de l’Association l’exigent.
 
+La composition actuelle du comité est la suivante:
+
+* Julien GRÜNHAGEL - Président
+* Jules LORENZI - Vice-président
+* Sophie RATCLIFF - Secrétaire
+* Célia SEPE - Trésorière
+* Marc DELACRÉTAZ - Chargé de communication
+
 ## Rémunération du comité
 
 Les membres du Comité agissent bénévolement et ne peuvent prétendre qu'à l'indemnisation de leurs frais effectifs et de leurs frais de déplacement. D'éventuels jetons de présence ne peuvent excéder ceux versés pour des commissions officielles. Pour les activités qui excèdent le cadre usuel de la fonction, chaque membre du Comité peut recevoir un dédommagement approprié.  
