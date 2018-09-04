@@ -10,5 +10,5 @@ Sonar's Handbook est le document de référence de l'association Sonar. Il expli
 
 ## À propos
 
-Ce document utilise la licence [Attribution 4.0 International \(CC BY 4.0\)](https://creativecommons.org/licenses/by/4.0/deed.fr).
+Ce document est sous licence [Attribution 4.0 International \(CC BY 4.0\)](https://creativecommons.org/licenses/by/4.0/deed.fr).
 
